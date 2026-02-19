@@ -5,6 +5,6 @@ public class Syntax {
         return;
     }
     public static void main(String[] args){//Void:-Empty   main:-Function
-        printHelloWorld();
+        printHelloWorld();//Calling the function. 
     }
 }
