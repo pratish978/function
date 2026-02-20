@@ -18,6 +18,7 @@ public class Binomial {
         return bino;
     }
 
+
     public static void main(String[] args) {
         int n=5;
         int r=2;
